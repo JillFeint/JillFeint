@@ -5,7 +5,7 @@ Soy tecnólogo en análisis y desarrollo de Software con formación en desarroll
 
 Otras de mis habilidades son la comunicación efectiva, escucha activa, toma de decisiones, organización, orientación a resultados, atención al detalle, perseverancia, Resiliencia, autonomía, responsabilidad y cumplimiento de instrucciones
 
-
+Desarrollador Full Stack Junior | C# | .NET | APIs REST | React| Vue | Integración ERP | SQL Server | LINQ | Análisis de datos | Data Analysis | Git | GitHub | AWS | Cloud Computing | Unity | Realidad Virtual (VR) | Realidad Aumentada (AR) | LLMs | RAG | Web Scraping | Automatización.
   
   <h3>🛠️ Stack Tecnológico</h3>
   
