@@ -52,4 +52,18 @@ Otras de mis habilidades son la comunicación efectiva, escucha activa, toma de 
   </a>
 </div>
 
+<hr>
+<br>
+
+<div align="center">
+  <h3>🏆 Trofeos de Github</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=JillFeint&theme=midnight-purple&column=4&margin-w=15&no-bg=true" width="100%" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>🔥 Racha de Contribuciones</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JillFeint&theme=midnight-purple&hide_border=true" />
+</div>
 
