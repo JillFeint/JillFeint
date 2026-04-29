@@ -1,11 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola%2C+soy+Alejandro+Ram%C3%ADrez+R!" alt="Typing SVG" />
-  </a>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=200&section=header&text=Hola,%20soy%20Alejandro%20Ramírez&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" width="100%" /> 
 <img align="right" width="380" src="https://acegif.com/wp-content/uploads/gifs/dragon-69.gif" />
-
 <div align="justify">
 Tecnólogo en análisis y desarrollo de Software con formación en desarrollo Backend en el ecosistema .NET (C#, APIs REST, integración de servicios y consultas SQL), tengo experiencia integrando servicios web dentro de un ERP empresarial, optimizando consultas y documentando procesos técnicos para mejorar la interoperabilidad del sistema, además cuento con conocimientos en arquitectura hexagonal, monolítica, capaz y nociones en microservicios, nociones de análisis de datos, formación en computación en la nube mediante bootcamp de AWS, así como en desarrollo de entornos interactivos con Unity (VR/AR) , inteligencia artificial aplicada (LLMs, RAG, web scraping), destaco por mi pensamiento analítico, resolución de problemas, comunicación técnica y efectiva, aprendizaje rápido, trabajo colaborativo en entornos ágiles, genero estimaciones de tiempo congruentes “proceso administrativo” tengo excelente manejo del tiempo y las prioridades, comunicación oportuna de problemas, también me adapto rápido, soy proactividad, tengo la capacidad de colaborar con personal interdisciplinario.
 <br><br>
