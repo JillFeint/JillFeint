@@ -1,4 +1,6 @@
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola%2C+soy+David+Alejandro+Ram%C3%ADrez+Ram%C3%ADrez!" alt="Typing SVG" /></a>
+  
   <h3>🛠️ Stack Tecnológico</h3>
   
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -21,9 +23,6 @@
   </a>
   <a href="mailto:soyproprogramador@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/JillFeint">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
